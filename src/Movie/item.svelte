@@ -11,6 +11,8 @@
         dispatch('onToggleLike', {id, title, overview, cover})
     }
 </script>
+<div>
+</div>
 
 <div class="card">
   <img src={coverURL} class="card-img-top" alt="...">
